@@ -1,5 +1,5 @@
 # Weblogic-Resources-Automation<p>
- This script were deployed with assistance from Rafael Guterres, Vinicius Cagnini & Maiquel Oliveira<br>
+ This script were deployed with assistance from Rafael Guterres (@guterresrafael), Vinicius Cagnini & Maiquel Oliveira<br>
  This script can run and create principal Weblogic Resources, avoiding operational steps. It was used to create recoursive objects<br>
  It's very nice when you need create > 10 resources on some Weblogic Domain. This scripts can help in DevOps initiatives.<br>
  The Weblogic 'hierarchy' should be understood for correctly runs.<br>
