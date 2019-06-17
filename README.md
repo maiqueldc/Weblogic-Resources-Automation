@@ -15,11 +15,11 @@
 	DistributedQueue
 	Queue
 
-<p>#Applyed for:
+<p>#Applyed for:<br>
 •	Oracle WebLogic Server 11g<br>
 •	Oracle WebLogic Server 12cR1<br>
 •	Oracle WebLogic Server 12cR2<br>
 
-<p>#Usage:       <br>
+<p>#Usage:      <br>
 export WL_HOME<br> or run setDomainEnv.sh at weblogic domain/bin folder<br>
            Then, type:  Weblogic-binaries-folder/common/bin/wlst.sh CreateWeblogicResources.py<br>
